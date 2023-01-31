@@ -24,13 +24,10 @@ const questions = [
         name: 'license',
         message: 'What kind of license is your project?',
         choices: [
-            'MIT Licesne',
+            'MIT License',
             'IBM',
             'Creative Common',
             'Mozilla Public License 2.0',
-            'SIL',
-            'The Unlicense',
-
         ]
     },
     {
