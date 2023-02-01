@@ -3,6 +3,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 
 
+
 const questions = [
     {
         type: 'input',
@@ -41,7 +42,7 @@ const questions = [
         name: 'email',
     }
 ];
-
+console.log(questions[3].choices);
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
