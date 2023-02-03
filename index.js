@@ -12,13 +12,13 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'name',
-        message: 'Who is the author of your project?',
+        name: 'description',
+        message: 'Please provide a description of your project',
     },
     {
         type: 'input',
-        name: 'description',
-        message: 'Please provide a description of your project',
+        name: 'install',
+        message: 'Are there any installation instructions for you application?',
     },
     {
         type: 'list',
@@ -33,6 +33,24 @@ const questions = [
     },
     {
         type: 'input',
+        message: 'What is the intended usage of this appplication?',
+        name: 'usage',
+    },
+    
+    {
+        type: 'input',
+        message: 'Are there any additional contributors for this application?',
+        name: 'contributors',
+    },
+
+    {
+        type: 'input',
+        message: 'Are there any specific testing instructions?',
+        name: 'tests',
+    },
+
+    {
+        type: 'input',
         message: 'Please provide your GitHub username?',
         name: 'username',
     },
@@ -42,7 +60,7 @@ const questions = [
         name: 'email',
     }
 ];
-console.log(questions[3].choices);
+//console.log(questions[3].choices);
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
