@@ -14,25 +14,25 @@
 
 ## Description
 
-This project features a metronome that was built in JavaScript to help musicians practice.
+
 
 ## Installation
 
-There are no required installations.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non enim mattis, aliquam diam nec, euismod lorem. Nam tristique ut tellus facilisis facilisis. Curabitur vitae urna turpis. Donec eu ante et urna fringilla ultrices. Ut fringilla, enim ut semper tempor, nisl arcu tincidunt sapien, vitae molestie libero arcu vel nunc. In ut feugiat tortor. Aenean varius tellus in pulvinar faucibus. Phasellus fermentum at justo ac accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque tincidunt lorem et ante fermentum vestibulum. Maecenas luctus pharetra elit, et volutpat lectus. Praesent fringilla mi a mattis mollis. Ut pretium tincidunt bibendum. Nunc in tristique magna. Suspendisse libero lectus, euismod sit amet augue nec, tincidunt laoreet lacus.
 
 ## Usage 
 
-As stated in the second question, the metronome is intended to help musicians maximize practice time.
+
 
 ## Tests
 
-There is no need to test this application.
+None
 
 ## Contributors
 
-There are no additional contributors.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non enim mattis, aliquam diam nec, euismod lorem. Nam tristique ut tellus facilisis facilisis. Curabitur vitae urna turpis. Donec eu ante et urna fringilla ultrices. Ut fringilla, enim ut semper tempor, nisl arcu tincidunt sapien, vitae molestie libero arcu vel nunc. In ut feugiat tortor. Aenean varius tellus in pulvinar faucibus. Phasellus fermentum at justo ac accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque tincidunt lorem et ante fermentum vestibulum. Maecenas luctus pharetra elit, et volutpat lectus. Praesent fringilla mi a mattis mollis. Ut pretium tincidunt bibendum. Nunc in tristique magna. Suspendisse libero lectus, euismod sit amet augue nec, tincidunt laoreet lacus.
 
 ## Questions
 
 * Github: https://github.com/undefined
-* Email: musician@email.com
+* Email: jeffmoromusic@gmail.com
