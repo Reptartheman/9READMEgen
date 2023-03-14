@@ -19,4 +19,3 @@
   
   
 ## Demo video
-  [README generator demo.webm](https://user-images.githubusercontent.com/117610334/216502028-f7103273-3bd7-4cf6-9410-73b39efc67a6.webm)
